@@ -1,5 +1,4 @@
 # New-years
-# new-years
 
 <h1 align="center" color=" ">
    new-years
